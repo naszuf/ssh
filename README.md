@@ -15,6 +15,10 @@ local
 
 tunnel
 
+## VERIFYING HOST KEYS
+
+ssh-keygen -l -f /etc/ssh/ssh_host_rsa_key
+
 ## ssh escape seq
 
      ~.      Disconnect.
