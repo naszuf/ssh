@@ -15,7 +15,8 @@ local
 
 tunnel
 
-==ssh escape seq==
+## ssh escape seq
+
      ~.      Disconnect.
 
      ~^Z     Background ssh.
